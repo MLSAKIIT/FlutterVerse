@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045851024705",
+    "project_id": "chattodo-e97fc",
+    "storage_bucket": "chattodo-e97fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045851024705:android:a9c62cc795929383a585c0",
+        "android_client_info": {
+          "package_name": "com.example.chat_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045851024705-3g547muhktiom1mcohoi44fa8oi6lvb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxOfkQ9V00GM1QCcQ667of619KiX5Wf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045851024705-3g547muhktiom1mcohoi44fa8oi6lvb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
